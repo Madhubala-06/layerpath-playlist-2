@@ -20,7 +20,7 @@
    - Tutorial title
    - Tutorial playbutton
    - Description
-   - "Get Started" CTA button
+   - "Get Started" CTA button and View Website button
 
 3. Chapter Modal
    - Slide-up interaction
