@@ -153,13 +153,13 @@ body {
 
 @media (min-width: 768px) {
     .btns {
-        justify-content: center; /* Center the buttons on larger screens */
-        gap: 16px; /* Maintain space between buttons */
+        justify-content: center;
+        gap: 16px; 
     }
     .cta-button,
     .cta-button2 {
-        flex: none; /* Removes equal flex behavior */
-        width: 500px; /* Set a fixed width for larger screens */
+        flex: none; 
+        width: 500px; 
     }
 }
 
